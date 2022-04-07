@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tinh-tich-phan/1.0.0": {
+        "runtime": {
+          "Tinh-tich-phan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tinh-tich-phan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

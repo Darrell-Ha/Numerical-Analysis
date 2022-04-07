@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Noi-suy-trung-tam/1.0.0": {
+        "runtime": {
+          "Noi-suy-trung-tam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Noi-suy-trung-tam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

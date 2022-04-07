@@ -1,0 +1,16 @@
+D:\Year3\PPN_new\Noi-suy-lagrange\bin\Debug\net5.0\Noi-suy-lagrange.exe
+D:\Year3\PPN_new\Noi-suy-lagrange\bin\Debug\net5.0\Noi-suy-lagrange.deps.json
+D:\Year3\PPN_new\Noi-suy-lagrange\bin\Debug\net5.0\Noi-suy-lagrange.runtimeconfig.json
+D:\Year3\PPN_new\Noi-suy-lagrange\bin\Debug\net5.0\Noi-suy-lagrange.runtimeconfig.dev.json
+D:\Year3\PPN_new\Noi-suy-lagrange\bin\Debug\net5.0\Noi-suy-lagrange.dll
+D:\Year3\PPN_new\Noi-suy-lagrange\bin\Debug\net5.0\ref\Noi-suy-lagrange.dll
+D:\Year3\PPN_new\Noi-suy-lagrange\bin\Debug\net5.0\Noi-suy-lagrange.pdb
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.csproj.AssemblyReference.cache
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.AssemblyInfoInputs.cache
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.AssemblyInfo.cs
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.csproj.CoreCompileInputs.cache
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.dll
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\ref\Noi-suy-lagrange.dll
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.pdb
+D:\Year3\PPN_new\Noi-suy-lagrange\obj\Debug\net5.0\Noi-suy-lagrange.genruntimeconfig.cache

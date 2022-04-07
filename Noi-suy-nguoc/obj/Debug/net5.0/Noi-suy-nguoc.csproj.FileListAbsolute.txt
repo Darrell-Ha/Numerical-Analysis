@@ -1,0 +1,16 @@
+D:\Year3\PPN_new\Noi-suy-nguoc\bin\Debug\net5.0\Noi-suy-nguoc.exe
+D:\Year3\PPN_new\Noi-suy-nguoc\bin\Debug\net5.0\Noi-suy-nguoc.deps.json
+D:\Year3\PPN_new\Noi-suy-nguoc\bin\Debug\net5.0\Noi-suy-nguoc.runtimeconfig.json
+D:\Year3\PPN_new\Noi-suy-nguoc\bin\Debug\net5.0\Noi-suy-nguoc.runtimeconfig.dev.json
+D:\Year3\PPN_new\Noi-suy-nguoc\bin\Debug\net5.0\Noi-suy-nguoc.dll
+D:\Year3\PPN_new\Noi-suy-nguoc\bin\Debug\net5.0\ref\Noi-suy-nguoc.dll
+D:\Year3\PPN_new\Noi-suy-nguoc\bin\Debug\net5.0\Noi-suy-nguoc.pdb
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.csproj.AssemblyReference.cache
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.AssemblyInfoInputs.cache
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.AssemblyInfo.cs
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.csproj.CoreCompileInputs.cache
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.dll
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\ref\Noi-suy-nguoc.dll
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.pdb
+D:\Year3\PPN_new\Noi-suy-nguoc\obj\Debug\net5.0\Noi-suy-nguoc.genruntimeconfig.cache

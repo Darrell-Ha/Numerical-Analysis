@@ -1,0 +1,16 @@
+D:\Year3\PPN_new\Noi-suy-newton\bin\Debug\net5.0\Noi-suy-newton.exe
+D:\Year3\PPN_new\Noi-suy-newton\bin\Debug\net5.0\Noi-suy-newton.deps.json
+D:\Year3\PPN_new\Noi-suy-newton\bin\Debug\net5.0\Noi-suy-newton.runtimeconfig.json
+D:\Year3\PPN_new\Noi-suy-newton\bin\Debug\net5.0\Noi-suy-newton.runtimeconfig.dev.json
+D:\Year3\PPN_new\Noi-suy-newton\bin\Debug\net5.0\Noi-suy-newton.dll
+D:\Year3\PPN_new\Noi-suy-newton\bin\Debug\net5.0\ref\Noi-suy-newton.dll
+D:\Year3\PPN_new\Noi-suy-newton\bin\Debug\net5.0\Noi-suy-newton.pdb
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.csproj.AssemblyReference.cache
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.AssemblyInfoInputs.cache
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.AssemblyInfo.cs
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.csproj.CoreCompileInputs.cache
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.dll
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\ref\Noi-suy-newton.dll
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.pdb
+D:\Year3\PPN_new\Noi-suy-newton\obj\Debug\net5.0\Noi-suy-newton.genruntimeconfig.cache

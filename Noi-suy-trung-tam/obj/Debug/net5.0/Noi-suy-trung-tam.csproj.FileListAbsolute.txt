@@ -1,0 +1,16 @@
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.csproj.AssemblyReference.cache
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.AssemblyInfoInputs.cache
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.AssemblyInfo.cs
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.csproj.CoreCompileInputs.cache
+D:\Year3\PPN_new\Noi-suy-trung-tam\bin\Debug\net5.0\Noi-suy-trung-tam.exe
+D:\Year3\PPN_new\Noi-suy-trung-tam\bin\Debug\net5.0\Noi-suy-trung-tam.deps.json
+D:\Year3\PPN_new\Noi-suy-trung-tam\bin\Debug\net5.0\Noi-suy-trung-tam.runtimeconfig.json
+D:\Year3\PPN_new\Noi-suy-trung-tam\bin\Debug\net5.0\Noi-suy-trung-tam.runtimeconfig.dev.json
+D:\Year3\PPN_new\Noi-suy-trung-tam\bin\Debug\net5.0\Noi-suy-trung-tam.dll
+D:\Year3\PPN_new\Noi-suy-trung-tam\bin\Debug\net5.0\ref\Noi-suy-trung-tam.dll
+D:\Year3\PPN_new\Noi-suy-trung-tam\bin\Debug\net5.0\Noi-suy-trung-tam.pdb
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.dll
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\ref\Noi-suy-trung-tam.dll
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.pdb
+D:\Year3\PPN_new\Noi-suy-trung-tam\obj\Debug\net5.0\Noi-suy-trung-tam.genruntimeconfig.cache

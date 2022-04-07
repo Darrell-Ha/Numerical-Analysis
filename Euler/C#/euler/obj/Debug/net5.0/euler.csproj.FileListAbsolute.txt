@@ -1,0 +1,16 @@
+D:\Year3\PPN_new\Euler\C#\euler\bin\Debug\net5.0\euler.exe
+D:\Year3\PPN_new\Euler\C#\euler\bin\Debug\net5.0\euler.deps.json
+D:\Year3\PPN_new\Euler\C#\euler\bin\Debug\net5.0\euler.runtimeconfig.json
+D:\Year3\PPN_new\Euler\C#\euler\bin\Debug\net5.0\euler.runtimeconfig.dev.json
+D:\Year3\PPN_new\Euler\C#\euler\bin\Debug\net5.0\euler.dll
+D:\Year3\PPN_new\Euler\C#\euler\bin\Debug\net5.0\ref\euler.dll
+D:\Year3\PPN_new\Euler\C#\euler\bin\Debug\net5.0\euler.pdb
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.csproj.AssemblyReference.cache
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.AssemblyInfoInputs.cache
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.AssemblyInfo.cs
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.csproj.CoreCompileInputs.cache
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.dll
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\ref\euler.dll
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.pdb
+D:\Year3\PPN_new\Euler\C#\euler\obj\Debug\net5.0\euler.genruntimeconfig.cache

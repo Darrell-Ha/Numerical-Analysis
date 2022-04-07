@@ -1,0 +1,16 @@
+D:\Year3\PPN_new\Tinh-tich-phan\bin\Debug\net5.0\Tinh-tich-phan.exe
+D:\Year3\PPN_new\Tinh-tich-phan\bin\Debug\net5.0\Tinh-tich-phan.deps.json
+D:\Year3\PPN_new\Tinh-tich-phan\bin\Debug\net5.0\Tinh-tich-phan.runtimeconfig.json
+D:\Year3\PPN_new\Tinh-tich-phan\bin\Debug\net5.0\Tinh-tich-phan.runtimeconfig.dev.json
+D:\Year3\PPN_new\Tinh-tich-phan\bin\Debug\net5.0\Tinh-tich-phan.dll
+D:\Year3\PPN_new\Tinh-tich-phan\bin\Debug\net5.0\ref\Tinh-tich-phan.dll
+D:\Year3\PPN_new\Tinh-tich-phan\bin\Debug\net5.0\Tinh-tich-phan.pdb
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.csproj.AssemblyReference.cache
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.AssemblyInfoInputs.cache
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.AssemblyInfo.cs
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.csproj.CoreCompileInputs.cache
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.dll
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\ref\Tinh-tich-phan.dll
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.pdb
+D:\Year3\PPN_new\Tinh-tich-phan\obj\Debug\net5.0\Tinh-tich-phan.genruntimeconfig.cache
